@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "ffw-einsatzmonitor-c59c3",
+    "private_key_id": "f5d373740ee431dc8f1ee1fc67664f121d3142a1",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1eKum6t1mGIGW\no+UH83m3KM8ZFLnkpz3BEwnmbH69lXcZ0T/eqvvV7R3ky7IMNxbDZmVTUlaVkHZ2\n4lIv1PPATSnfPe+AS9yXNQuyGKxpRLK4mWS0zcbUprIGQYfjDrXGmOfY4e9laA1K\nnas3gZGlBaTm+ni/JB4u4aPjenOAP+L6RLnyxOcsmaI9JeIiS6DL89ez72G5r2+G\ntQyShLiRz5gNn/oXb357HIBR4sWFkleNaLiztJGzt99lIJj6A5QXMv3o8A3inv5X\ndU+HN/8Ju98BWTC3TqNPdhZ3ceA4dfyiqw4xnSuQujvPf/MrDHl/hxxKfnAE3gL0\nT34rV4mZAgMBAAECggEAISEtETWKgtORgOtd6jQwcdhA6r7GazB/DSsJISiIgNrz\nGeMCKogDntwBm532XNWH0dd1Qx9ikD6F6hFKWNIjR+WuccOQYFc5J9+2yWZIv5Ub\nnajfYkS4+mSOVqcLBFBQrjeHCCjDODulRYyAUAtXCA3+O27ZsWeKHRvzfBmEUZLJ\nb2ZDorSUvugbAWsf5sSBI/vbys3TZk7Bxie/VvHuGU66KQiOW+nLB4VzLhhZ3phD\n8TsZLkinQvysoSMkWF8steq6iQIoD2otOqVLPpQOpUALrt7Rs9OnszAp8JIU5dob\neKwRF2dj0sTNBzvU3idvEusvdx1j4gk8zvLLFTQ6ywKBgQDjultW30Q0h5ZXGGOl\ncoudyJLgu09HnWGjsVtHxc6ScoCnTzCBB2aRK365XPYPvLBSNAzj57ppVHUi8bPo\nVRAfeCouTed1UsnO6sdE+5hjPW22cMy0J1qdKQqOJRwcs7ROLdGP8LerbZgNFE1w\nRsHmBFrssNFiiJ0GWO2D+cFVPwKBgQDMADAwDnsHXWQNDNAoz7U61lbArHujRVQd\n/5OSZVE1mQFjlbEOTgdCYJWT9Pd+qE27EhtoaifDfqPlT9CUoApAfIMi83uv3Hsq\noq84aWzZ2jg/7nrdaTp2Ds0TtzV/kHXdxOTAu8Rc7Pnarz1V+Eeuw9c47voMasfq\nz8qmIxgzJwKBgG5UEAKDgqDMe7rQdx5l41xbG0XDmcJBbleHCok4PT9YOBpW1FH+\nyuNUJj4Z2qB/MxFwZDpaP0begy2d2iKaa4hDiHQMjDGcHWeg+U/jcM3Lqga0mYhC\ndLUleBarxfXl3lnt+tR4tBNaskrL5kSaE0CkJYT8mUTamPDFTrUc4FyzAoGAcx58\nEvJo/Ov3xOGBKjakR7KivBHZp3Y9FLygE1H3dO6F+SOFCdSAhjWo0xi+/YuOac27\nB743+Dsj1AipZOW3Q1LAUd3i44fhPVsW1BeyJHHfojw6u21hXzPVCJYvq2/jA6XT\njOuo0OOtz3lqfHQiR34emvNIye8MJ/bgncZaJqsCgYEA0myfsRABkkvQNaLOPODv\njgNlwHxtC2EnN+CHmzUKOBERqwDcTJza4cR5Uq0EHh73ooPI4eP3g5dj3FNB+W/d\nQ2BCQ0TMVlMD217cShkCmcijlCtGVLXZJWCJeYXMt+EEAE+ZYQOXcp7p3wLaDFey\nnuz0jZdLO3iCXopq2R6XkVY=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-32los@ffw-einsatzmonitor-c59c3.iam.gserviceaccount.com",
+    "client_id": "115476387569404694755",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-32los%40ffw-einsatzmonitor-c59c3.iam.gserviceaccount.com"
+  }
+  
